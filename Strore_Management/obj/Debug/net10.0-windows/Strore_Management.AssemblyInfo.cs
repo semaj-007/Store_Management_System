@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Strore_Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8953c08dab7a6a1098254cfbd899025f13f429f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Strore_Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Strore_Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
